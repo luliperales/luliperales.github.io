@@ -1,0 +1,39 @@
+body {
+    background-color: #f5d0f1;
+}
+h1 {
+    color: black;
+    font-family: IMPACT, sans-serif;
+    font-size: 50;
+    text-align: center;
+}
+form-textbox {
+    color: black;
+    font-family: times, serif;
+    font-size: 25;
+    text-align: center;
+    width: 50px;
+
+}
+p:link {
+    color: black;
+    font-family: helvetica;
+    font-size: 25;
+    text-align: center;
+}
+
+p:hover {
+    font-size: 30;
+}
+div {
+    text-align:center;
+}
+
+.displayed {
+    width: 420px;
+    height: 270px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
