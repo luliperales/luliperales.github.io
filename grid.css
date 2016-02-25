@@ -1,0 +1,15 @@
+.wrapper {
+  width: 1024px;
+  margin: auto;
+}
+
+.row {
+  width: 100%;
+  height: 100px;
+}
+
+.four {
+  width: 100%;
+  height: 100px;
+  background-color: #e8dafb;
+}
