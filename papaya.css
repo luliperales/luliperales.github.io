@@ -1,0 +1,44 @@
+body {
+    background-color: #f5d0f1;
+}
+
+img {
+    width:400px;
+    height:500px;
+    position:relative;
+    left: 0px;
+    top: 100px;
+
+}
+
+.vagina {
+    width: 400px;
+    height: 500px;
+    position: relative;
+    left: 0px;
+    top: 100px;
+    filter: alpha(opacity=30);
+    display: none;
+}
+
+#secondcontainer {
+    position: relative;
+    -webkit-animation-name: vagina;
+    -webkit-animation-duration: 15s;
+    -webkit-animation-iteration-count: infinite;
+}
+
+#container {
+    position: relative;
+    -webkit-animation-name: fruit;
+    -webkit-animation-duration: 5s;
+    -webkit-animation-iteration-count: infinite;
+}
+
+
+keyframes fruit {
+    0% {left:0px; top:100px; }
+    50% {left:750px; top: 100px;}
+    100% {left:0px; top:100px;}
+
+}

@@ -1,0 +1,27 @@
+body {
+  background-color: #e8dafb
+}
+
+#header {
+  background-color: #b39dce;
+  color: white;
+  text-align: center;
+  padding: 3px;
+}
+
+#column {
+  line-height:30px;
+   background-color:#8e7aa8;
+   width:180px;
+   float:left;
+   border: 10px;
+   margin: 10px;
+}
+
+#footer {
+  background-color:#b39dce;
+    color:white;
+    clear:both;
+    text-align: center;
+    padding: 3px;
+}
