@@ -1,6 +1,7 @@
 .wrapper {
-  width: 1024px;
+  width: 100%;
   margin: auto;
+  max-width: 1024px;
 }
 
 .row {
@@ -8,8 +9,41 @@
   height: 100px;
 }
 
-.four {
-  width: 100%;
+.four, .column, .column1, .column2, .column3 {
+  width: 92%;
   height: 100px;
   background-color: #e8dafb;
+  margin: 4%;
+}
+
+.column {
+  width: 42%;
+  float: left;
+  background-color: #b7c5ba;
+
+}
+
+.column1 {
+  width: 17%;
+  float: left;
+  background-color: #a8cee3;
+}
+
+.column2 {
+  width: 67%;
+  float: left;
+  background-color: #ffcc99;
+}
+
+.column3 {
+  width: 17%;
+  float: left;
+  background-color: #ceff99;
+}
+
+@media (max-width: 460px){
+  .column3, .column2, .column1, .column, .four {
+    width: 92%;
+    background-color: #99a0ff;
+  }
 }
