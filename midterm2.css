@@ -1,0 +1,25 @@
+.wrapper {
+  width: 100%;
+  margin: auto;
+  max-width: 1000px;
+  background-color: #acb0ab;
+}
+
+#header {
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.image-container {
+  background-color:
+  width: 33%;
+  float: left;
+  justify-content: center;
+  }
+
+.image-container img {
+  width: 100%;
+  height: auto;
+}

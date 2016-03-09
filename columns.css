@@ -6,7 +6,7 @@ body {
   background-color: #b39dce;
   color: white;
   text-align: center;
-  width: 620px;
+  width: 1000px;
   border: 10px;
   margin: 10px;
 }
@@ -14,7 +14,7 @@ body {
 #column {
   line-height:30px;
    background-color:#8e7aa8;
-   width:180px;
+   width:320px;
    float:left;
    border: 10px;
    margin: 10px;
@@ -25,7 +25,7 @@ body {
     color:white;
     clear:both;
     text-align: center;
-    width: 620px;
+    width: 1000px;
     border: 10px;
     margin: 10px;
 }

@@ -1,0 +1,34 @@
+body {
+  background-color: #202320;
+}
+
+.wrapper {
+  max-width: 2000px;
+  margin: 0 auto;
+  padding: 1%;
+  background-color: #222b24;
+  color: #858484
+}
+
+#head {
+  background-color: white;
+  width: 620px;
+  border: 10px;
+  margin: 10px;
+}
+h1 {
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 100;
+  text-align: center;
+}
+
+#logo {
+  margin: auto;
+  width: 100%;
+}
+
+.picapp {
+  width: 40%;
+  border: 10px;
+  margin: 10px;
+}
