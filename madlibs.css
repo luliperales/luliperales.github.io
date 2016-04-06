@@ -1,0 +1,39 @@
+body {
+  background-color: #fcf6b0;
+}
+
+#color, #animal, #adverb, #place {
+  font-family: 'futura', sans-serif;
+  font-size: 40px;
+  margin: auto auto auto auto;
+  color: black;
+
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  font-family: 'futura', sans-serif;
+  font-size: 60px;
+  margin: auto auto auto auto;
+  color: black;
+}
+
+#sentence {
+  font-family: 'futura', sans-serif;
+  font-size: 40px;
+  margin: auto auto auto auto;
+  color: black;
+
+}
+
+#lib-button {
+    background-color: white;
+    font-family: 'futura', sans-serif;
+    font-size: 40px;
+    margin: auto auto auto auto;
+    color: black;
+
+}
