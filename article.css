@@ -1,0 +1,145 @@
+#yellow {
+  height: 690px;
+  width: 100%;
+  margin: -8px auto;
+  margin-left: -8px auto;
+  align-content: center;
+  position: absolute;
+  background-color: #ffff09;
+}
+
+#lilac {
+  height: 1050px;
+  width: 100%;
+  margin-top: 690px;
+  align-content: center;
+  position: absolute;
+  background-color: #e4c7ff;
+}
+
+img {
+  display:inline-block;
+  align-content: center;
+}
+header {
+  display: inline-block;
+  float: left;
+  margin-top: 100px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  float: left;
+}
+
+li {
+  display: inline;
+  padding: 15;
+}
+
+.hline {
+  color: black
+  width: auto;
+}
+
+
+#yellow2 {
+  height: 5000px;
+  width: 100%;
+  margin-top: 8400px;
+  align-content: center;
+  position: absolute;
+  background-color: #ffff09;
+}
+
+#contentWrapper {
+  align-content: center;
+  width: 1200px;
+  text-align: center;
+
+}
+
+h3 {
+  width: 80%;
+  text-align: center;
+  font-size: 140;
+  font-family: futura;
+}
+
+h1 {
+  text-align: center;
+  font-size: 30;
+  font-family: futura;
+}
+
+h2 {
+  font-size: 30;
+  text-decoration-line: underline;
+  font-family: futura;
+}
+
+p {
+  display: block;
+  font-size: 27;
+  font-family: avenir;
+  line-height: 2.4;
+}
+
+#articleText {
+  margin-top: 2000px;
+  height: 8000px;
+  font-family: avenir;
+  width: 50%;
+  align-content: center;
+  display: inline-block;
+}
+
+a {
+  font-size: 20;
+  color: black;
+  text-decoration-line: underline;
+  font-family: futura;
+}
+
+#jaime {
+  width: 50%;
+  font-family: avenir;
+}
+
+#andrea {
+  margin-left: 100px;
+  display: inline-block;
+}
+
+#comment {
+  width: 100%;
+  padding: 100px;
+  background-color: white;
+  text-align: center;
+  font-size: 40;
+  font-family: futura;
+}
+
+#name {
+  width: 100%;
+  padding: 100px
+  background-color: white;
+  text-align: center;
+  font-size: 30;
+  font-family: futura;
+}
+
+#footer {
+    font-size: 140;
+    color: white;
+    text-decoration-line: underline;
+    font-family: arial-black;
+    background-color: red;
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+    height: 300px;
+    bottom: 0px;
+}

@@ -37,3 +37,12 @@ li {
     color: black;
 
 }
+
+#container {
+    background-color: white;
+    font-family: 'futura', sans-serif;
+    font-size: 40px;
+    margin: auto auto auto auto;
+    color: black;
+
+}

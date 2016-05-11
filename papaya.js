@@ -1,6 +1,6 @@
 var shown = false;
 
-$("#container").click(function() {
+$("#click").click(function() {
     if (shown == false) {
     $(".papaya").show();
     $(".vagina").hide();

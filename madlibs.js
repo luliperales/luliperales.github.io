@@ -12,3 +12,15 @@ $(document).ready(function(){
         madLibs();
     });
 });
+
+var shown = false;
+
+$("#container").click(function() {
+    if (shown == false) {
+    $(".sentence").show();
+    shown = true;
+    } else {
+    $(".sentence").hide();
+    shown = false;
+    }
+});
